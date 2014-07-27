@@ -1,0 +1,5 @@
+[
+  { "name": "Wendy's", "rating": 5 },
+  { "name": "Burger King", "rating": 3 },
+  { "name": "McDonalds", "rating": 1 }
+]

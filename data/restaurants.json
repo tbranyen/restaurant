@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Wendy's",
+    "rating": 4,
+    "likes": 16,
+    "dislikes": 5
+  },
+  {
+    "name": "Burger King",
+    "rating": 3,
+    "likes": 0,
+    "dislikes": 0
+  },
+  {
+    "name": "McDonalds",
+    "rating": 3,
+    "likes": 0,
+    "dislikes": 0
+  },
+  {
+    "name": "Test",
+    "rating": 3,
+    "likes": 0,
+    "dislikes": 0
+  },
+  {
+    "name": "Five Guys",
+    "rating": 3,
+    "likes": 0,
+    "dislikes": 0
+  }
+]

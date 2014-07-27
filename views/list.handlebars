@@ -1,0 +1,9 @@
+<ol class="list">
+  {{#each restaurants}}
+  <a href="/restaurant/{{name}}"><li data-rating="{{toStars rating}}">{{name}}</li></a>
+  {{/each}}
+</ol>
+
+<hr>
+
+{{> "add"}}

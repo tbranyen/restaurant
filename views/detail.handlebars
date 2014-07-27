@@ -1,0 +1,13 @@
+<a href="/" class="pure-button">Back to list</a>
+<hr>
+<h1>{{restaurant.name}}</h1>
+
+<div class="stars">
+  {{toStars restaurant.rating}}
+</div>
+
+<div>
+  <a class="pure-button like" href="/restaurant/{{restaurant.name}}/like">Like <img src="/public/img/thumbsup.png"></a>
+
+  <a class="pure-button dislike" href="/restaurant/{{restaurant.name}}/dislike">Dislike <img src="/public/img/thumbsdown.png"></a>
+</div>
